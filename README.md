@@ -3,7 +3,7 @@
 #### I am Full Stack Developer (laravel)
 i worked on many projects such as blogsytem using laravel  , small ecommerce with a control panel for admin  using php (native)  and making Api  
 
-Skills: LARAVEL / PHP / MYSQL  / REACT / JS / HTML / CSS
+Skills: LARAVEL / PHP / MYSQL / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
 
