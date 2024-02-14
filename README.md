@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Hi there 👋, my name is Yousef
 #### I am Full Stack Developer (laravel)
-i worked on many projects such as blogsytem using laravel   small ecommerce with a control panel for admin  using php (native)  and making Api  
+i worked on many projects such as blogsytem using laravel  , small ecommerce with a control panel for admin  using php (native)  and making Api  
 
 Skills: LARAVEL / PHP / MYSQL  / REACT / JS / HTML / CSS
 
