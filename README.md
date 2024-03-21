@@ -2,7 +2,7 @@
 #### I am Back-End Developer PHP | Laravel
 i worked on many projects such as blogsytem using laravel  , small ecommerce with a control panel for admin  using php (native)  and making Api  
 
-Skills: LARAVEL / PHP / MYSQL / JS / HTML / CSS
+Skills: LARAVEL / PHP / MYSQL / JS / HTML / CSS / REACT / REST-API / SQL / REDUX 
 
  
 
