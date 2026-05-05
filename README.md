@@ -5,7 +5,9 @@ Backend-focused developer specializing in Laravel, building scalable systems lik
 I enjoy solving real business problems and creating efficient, maintainable solutions.
 
 **Backend:** PHP, Laravel, MySQL, Sanctum, Spatie, Queue & Jobs
+
 **Frontend:** React, JavaScript, Redux
+
 **Tools:** Git, Postman, VS Code
 
 **Projects:** E-Commerce API · BistroBliss (Restaurant Reservation) ·
