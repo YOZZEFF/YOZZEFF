@@ -15,8 +15,11 @@ Currently building an AI-powered wardrobe recommendation app targeting Arab mark
 ## 🛠️ Tech Stack
 
 **Backend:** PHP, Laravel, REST APIs, MySQL, Sanctum, Spatie Permissions, Observer Pattern, Queue & Jobs 
+
 **Frontend:** React, JavaScript, HTML, CSS, Redux
-**Tools:** Git, Postman, phpMyAdmin, Tinker, VS Code, Windsurf 
+
+**Tools:** Git, Postman, phpMyAdmin, Tinker, VS Code, Windsurf
+
 ---
 
 ## 📌 Projects
