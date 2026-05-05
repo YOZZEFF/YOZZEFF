@@ -32,4 +32,4 @@ Currently building an AI-powered wardrobe recommendation app targeting Arab mark
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/yousef-mohamed-7634b8231/)
+[LinkedIn](https://www.linkedin.com/in/yousef-mohamed-7634b8231/)
