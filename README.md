@@ -1,35 +1,11 @@
 # Hi there 👋, I'm Yousef Mohamed
-
 ### Full Stack Developer | Laravel & React
+Cairo, Egypt
 
----
+**Backend:** PHP, Laravel, MySQL, Sanctum, Spatie, Queue & Jobs
+**Frontend:** React, JavaScript, Redux
+**Tools:** Git, Postman, VS Code
 
-##  About Me
-
-A passionate Full Stack Developer based in Cairo, Egypt.
-I specialize in building RESTful APIs with Laravel and modern UIs with React.
-Currently building an AI-powered wardrobe recommendation app targeting Arab markets.
-
----
-
-##  Tech Stack
-
-**Backend:** PHP, Laravel, REST APIs, MySQL, Sanctum, Spatie Permissions, Observer Pattern, Queue & Jobs 
-
-**Frontend:** React, JavaScript, HTML, CSS, Redux
-
-**Tools:** Git, Postman, phpMyAdmin, Tinker, VS Code, Windsurf
-
----
-
-##  Projects
-
-- **E-Commerce API** — Full RESTful API with roles, permissions, coupons, reviews & orders (Laravel)
-- **BistroBliss** — Restaurant management system (Laravel + React)
-- **Library Management System** — Freelance project with ERP integration via Daftra
-
----
-
-##  Connect with me
+**Projects:** E-Commerce API · BistroBliss · Library Management System
 
 [LinkedIn](https://www.linkedin.com/in/yousef-mohamed-7634b8231/)
