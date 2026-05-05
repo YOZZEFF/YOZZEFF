@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Yousef Mohamed
 ### Full Stack Developer | Laravel & React
-Cairo, Egypt
+**About me**
+Backend-focused developer specializing in Laravel, building scalable systems like CRM platforms and APIs.  
+I enjoy solving real business problems and creating efficient, maintainable solutions.
 
 **Backend:** PHP, Laravel, MySQL, Sanctum, Spatie, Queue & Jobs
 **Frontend:** React, JavaScript, Redux
