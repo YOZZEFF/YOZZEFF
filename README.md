@@ -1,12 +1,32 @@
-### Hi there 👋, my name is Yousef Mohamed
-#### I am Back-End Developer PHP | Laravel
-i worked on many projects such as blogsytem using laravel  , small ecommerce with a control panel for admin  using php (native)  and making Api  
+# Hi there 👋, I'm Yousef Mohamed
 
-Skills: LARAVEL / PHP / MYSQL / JS / HTML / CSS / REACT / REST-API / SQL / REDUX 
+### Full Stack Developer | Laravel & React
 
- 
+---
 
+## 🚀 About Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yousef-mohamed-7634b8231//)  
+A passionate Full Stack Developer based in Cairo, Egypt.
+I specialize in building RESTful APIs with Laravel and modern UIs with React.
+Currently building an AI-powered wardrobe recommendation app targeting Arab markets.
 
+---
 
+## 🛠️ Tech Stack
+
+**Backend:** PHP, Laravel, REST APIs, MySQL, Sanctum, Spatie Permissions, Observer Pattern, Queue & Jobs 
+**Frontend:** React, JavaScript, HTML, CSS, Redux
+**Tools:** Git, Postman, phpMyAdmin, Tinker, VS Code, Windsurf 
+---
+
+## 📌 Projects
+
+- **E-Commerce API** — Full RESTful API with roles, permissions, coupons, reviews & orders (Laravel)
+- **BistroBliss** — Restaurant management system (Laravel + React)
+- **Library Management System** — Freelance project with ERP integration via Daftra
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/yousef-mohamed-7634b8231/)
