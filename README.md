@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 A passionate Full Stack Developer based in Cairo, Egypt.
 I specialize in building RESTful APIs with Laravel and modern UIs with React.
@@ -12,7 +12,7 @@ Currently building an AI-powered wardrobe recommendation app targeting Arab mark
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Backend:** PHP, Laravel, REST APIs, MySQL, Sanctum, Spatie Permissions, Observer Pattern, Queue & Jobs 
 
@@ -22,7 +22,7 @@ Currently building an AI-powered wardrobe recommendation app targeting Arab mark
 
 ---
 
-## 📌 Projects
+##  Projects
 
 - **E-Commerce API** — Full RESTful API with roles, permissions, coupons, reviews & orders (Laravel)
 - **BistroBliss** — Restaurant management system (Laravel + React)
@@ -30,6 +30,6 @@ Currently building an AI-powered wardrobe recommendation app targeting Arab mark
 
 ---
 
-## 📫 Connect with me
+##  Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/yousef-mohamed-7634b8231/)
