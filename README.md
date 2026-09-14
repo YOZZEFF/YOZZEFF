@@ -11,7 +11,7 @@ I enjoy solving real business problems and creating efficient, maintainable solu
 **Tools:** Git, Postman, VS Code
 
 ## Projects:
-Fashion E-Commerce API (wearva) · BistroBliss (Restaurant Reservation) ·
+Socks E-Commerce API (Holly Socks) · BistroBliss (Restaurant Reservation) ·
 ## Development: 
 Library Managment System . CRM for real estate team
 
